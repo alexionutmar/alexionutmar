@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-**alexionutmar/alexionutmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my Bachelor's Thesis
+- 🔭 I’m currently working with Java, Javascript, Typescript on Backend, React, HTML & CSS on Frontend, C++, Python
 - 🌱 I’m currently learning Java, Backend Development, Python
 - 💬 Ask me about Programming
 - 📫 How to reach me: [...](https://www.linkedin.com/in/alexionutmar/)
